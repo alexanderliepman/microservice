@@ -9,8 +9,8 @@ describe Environment do
     ENV = {}
     ENV['JSM_SMTP_HOST'] = 'localhost'
     ENV['JSM_SMTP_PORT'] = '1024'
-    ENV['JSM_PURCHASES_EMAIL'] = 'purchases@example.com'
-    ENV['JSM_ERRORS_EMAIL'] = 'errors@example.com'
+    ENV['JSM_PURCHASES_EMAIL'] = 'alexanderliepman@gmail.com'
+    ENV['JSM_ERRORS_EMAIL'] = 'alexanderliepman@gmail.com'
     ENV['JSM_PAYMENT_METHOD'] = 'paymill'
     ENV['JSM_PAYMILL_PRIVATE_KEY'] = 'DODFJ354tsDFG459df'
     ENV['JSM_FRONT_URL'] = 'http://my-front-domain.com'
